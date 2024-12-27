@@ -13,9 +13,11 @@
     "axios": "^1.7.9",
     "basic-auth": "^2.0.1",
     "express": "4.17.1",
-    "jimp": "^0.16.1",
+    "jimp": "^0.16.13",
     "lodash": "^4.17.21",
-    "request": "^2.83.0"
+    "punycode": "^2.3.1",
+    "request": "^2.83.0",
+    "tough-cookie": "^4.1.0"
   },
   "engines": {
     "node": "14.x"
